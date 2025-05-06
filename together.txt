@@ -3,6 +3,7 @@ Predicting employee turnover using machine learning on HR datasets
 Exploring Regional Housing Affordability in the UK. How have house prices and median annual earnings evolved between 2016 and 2023. (Elizaveta Kretova)
 A digital inventory management system for laboratories that tracks the usage to enhance lab safety and operational efficiency. (Anjani Pindoria)
 The real estate market is always an interesting event that will affect everyone's life in one way or another. (Raquel Munoz Carvajal)
+I am analysing genre trends in New York Times Fiction Bestsellers using text processing, embeddings, and semantic clustering [Sean Lennard]
 
 
 
