@@ -6,5 +6,5 @@ The real estate market is always an interesting event that will affect everyone'
 I am analysing genre trends in New York Times Fiction Bestsellers using text processing, embeddings, and semantic clustering [Sean Lennard]
 I am predicting the acceptability (binary output variable) of chromatograms for a biopharmaceutical manufacturing process based on several input variables (features) [Jack Whelan]
 Exploring what economic development indicators influence the sale of an automobile company in different regions, in order to find opportunities for future business growth.[Chao Yang]
-
+I’m working on optimizing the redistribution of medications between hospital departments to reduce waste and improve availability(Katica t Atanasoska)
 
