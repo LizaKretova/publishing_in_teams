@@ -5,6 +5,6 @@ A digital inventory management system for laboratories that tracks the usage to 
 The real estate market is always an interesting event that will affect everyone's life in one way or another. (Raquel Munoz Carvajal)
 I am analysing genre trends in New York Times Fiction Bestsellers using text processing, embeddings, and semantic clustering [Sean Lennard]
 I am predicting the acceptability (binary output variable) of chromatograms for a biopharmaceutical manufacturing process based on several input variables (features) [Jack Whelan]
-
+Exploring what economic development indicators influence the sale of an automobile company in different regions, in order to find opportunities for future business growth.[Chao Yang]
 
 
